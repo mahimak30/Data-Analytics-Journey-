@@ -1,4 +1,5 @@
 After 2 years of stepping away from my corporate role, I took a path that helped me rediscover myself in ways I never expected 🌸
+![Sales Dashboard](Project-Excel-Super Market Sales Dashboard/Dashboard Preview Image.png)
 
 What started as a creative break turned into something truly meaningful. I built a 30K+ community, ran a small art business, taught workshops, and created content. Through this journey, I didn’t just grow creatively, I also developed a strong understanding of audience behavior, content performance, confident communication, and how marketing works in the real world.
 
