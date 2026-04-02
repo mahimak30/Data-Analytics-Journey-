@@ -127,7 +127,7 @@ Grand Total  	 $8,52,71,008 	 $5,30,49,908	 $3,22,21,100
 added States 
 right click on table->expand/collapse-> Collapse entire field
 
-![chart](../Attachments/pivot1.png)
+![chart](https://github.com/mahimak30/Data-Analytics-Journey/blob/380a4d8fe90a0da6fa90592928c3dab1e0f4eda7/Attachments/pivot1.png)
 
 
 
