@@ -57,6 +57,6 @@ Naypyitaw generated the highest profit
 Food & Beverages is the top-performing product category
 Sales are distributed relatively evenly across payment methods
 
-![Sales Dashboard](../Project-Excel-Super Market Sales Dashboard/Dashboard Preview Image.png)
 Dashboard Preview:
+
 ![Sales Dashboard](https://github.com/mahimak30/Data-Analytics-Journey/blob/6ce24bf78f282ae41152a74eb910d02bc42b7c37/Project-Excel-Super%20Market%20Sales%20Dashboard/Dashboard%20Preview%20Image.png)
